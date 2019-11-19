@@ -1,11 +1,11 @@
-<img style="float:left" height="128px"   src="/imaxes/logo2.png" alt="" />
+<img style="float:left" height="128px"   src="/imaxes/logo3.png" alt="" />
 
 # Bootstrap
 Aprendendo a traballar con GitHub, markdown e  co framework Bootstrap.
 
 - [v] Fai un fork deste repositorio
-- [ ] Modifica o teu _README.md_ poñendo o teu logo, unha presentación do proxecto e vai marcando estas tarefas que vas facendo
-- [ ] Descarga o repositorio -se xa es maior podes clonalo, facer control de versións..._puuufff_-
+- [v] Modifica o teu _README.md_ poñendo o teu logo, unha presentación do proxecto e vai marcando estas tarefas que vas facendo
+- [v] Descarga o repositorio -se xa es maior podes clonalo, facer control de versións..._puuufff_-
 - [ ] Modifica todo: texto, imaxes, todos os `<div> ` que atopes copia aquí e alá.
 - [ ] No wiki copia e pega anacos de código `<div> ` e explica para que valen: Fai unha páxina por `class`. O que vén sendo: fai a chuleta sen que ninguén se entere. A túa primeira páxina do wiki: `jumbotron`
 - [ ] Actualiza o teu repositorio subindo a carpeta do teu traballo *cando remates.*
